@@ -1,4 +1,4 @@
-# freertos_spi_stm
+# game_freertos_spi
 
 Obstacle game built using a STM32F103RBT6 board using freeRTOS operating system.
 
