@@ -13,6 +13,8 @@ Obstacle game built using a STM32F103RBT6 board using freeRTOS operating system.
 - FreeRTOS
 - STM32F103RBT6
 
+## To test:
+
 ## Results:
 
 ![image](https://user-images.githubusercontent.com/63113730/130239877-a2843c56-b120-4d49-ac83-0cfb6e25f6d6.png)
